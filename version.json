@@ -1,5 +1,5 @@
 {
-  "version": "1.72",
-  "notes": "Task et séquence sont maintenant de nouveau fonctionnel",
+  "version": "1.765",
+  "notes": "Fenêtre aux couleurs Orus : barre de titre violette, pastilles macOS, coins arrondis. Fermer la fenêtre n'arrête plus les raccourcis",
   "url": "https://github.com/carllemagie-afk/orus-sales-bot/releases/latest/download/Orus-Sales-Bot.dmg"
 }
